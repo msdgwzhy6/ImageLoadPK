@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="drawee-volley-0.11.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/imageloadpk/build/intermediates/exploded-aar/com.facebook.fresco/drawee-volley/0.11.0/res" />
+      <root url="jar://$PROJECT_DIR$/imageloadpk/build/intermediates/exploded-aar/com.facebook.fresco/drawee-volley/0.11.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/drawee-volley/0.11.0/4c77615e5ee3152ffd5dfef540af7056b343d5fe/drawee-volley-0.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
